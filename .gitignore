@@ -1,0 +1,27 @@
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+aws_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.log
+*.mobileprovision
+*.orig.*
+*.zip
+*.env
+*.yarn
+
+
+web-build/
+npm
+babel
+app.config.js
+
+# macOS
+.DS_Store
